@@ -13,3 +13,4 @@ if sifre_uzunlugu >= 8:
 else:
     print('Daha uzun bir şifre giriniz.')
 print (sifre)
+print (sifre)
